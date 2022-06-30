@@ -8,4 +8,4 @@ def home():
     return render_template('dhaval.html')
 
 
-app.run(debug=True)
+#app.run(debug=True)
